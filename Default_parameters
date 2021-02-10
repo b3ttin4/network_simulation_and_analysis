@@ -1,0 +1,13 @@
+eccentricity: 0.8			varied in Smith,Hein,Whitney et al, 2018 between 0 to 0.9
+input modulation: 0.3		varied between 0 to 11 (logarithmic steps)
+gamma: 1.02
+
+sigmax: 1.8
+inh_factor: 2.0
+amplitude: 1.0
+
+tau: 1.0
+runtime: 3334
+dt: 0.15					(choose dt=0.05 if integrator is forward Euler)
+
+
