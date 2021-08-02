@@ -4,6 +4,12 @@ Implementation of the network simulation and the analysis tools described in the
 
 Smith GB, Hein B, Whitney DE, Fitzpatrick D, Kaschube M (2018) [Distributed network interaction and their emergence in developing neocortex.](https://rdcu.be/9PiY) Nat Neurosci. 21(11) 1600-1608.
 
+Code can be cited by 
+
+[![DOI](https://zenodo.org/badge/337845855.svg)](https://zenodo.org/badge/latestdoi/337845855)
+
+
+
 
 The code is tested in Python 2 and Python 3. In addition to standard scientific Python libraries (numpy, matplotlib), the code expects:
 * [Theano](http://deeplearning.net/software/theano/)
